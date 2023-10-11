@@ -1,0 +1,4 @@
+Le readme: https://github.com/TACmouc/M1webserviceTP1/blob/master/README.MD
+L'application: https://github.com/TACmouc/M1webserviceTP1/blob/master/app.py
+L'API: https://github.com/TACmouc/M1webserviceTP1/blob/master/calandar_api.py
+Le fichier requirements: https://github.com/TACmouc/M1webserviceTP1/blob/master/requirements.txt

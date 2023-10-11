@@ -46,7 +46,7 @@ L'application comporte les fonctionnalités suivantes :
 ## Avertissements
 - Assurez-vous que le serveur Flask est en cours d'exécution avant de lancer l'application.
 - Le code n'inclut pas de gestion avancée des erreurs ni de gestion de la sécurité, car il est destiné à des fins éducatives.
-
+- L'application pour l'ajout et la visualisation des tâches n'est pas encore fonctionnel.
 ## Auteur
 Ce code a été écrit par BOSGIRAUD Léo.
 
